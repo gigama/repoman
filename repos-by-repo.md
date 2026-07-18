@@ -647,6 +647,7 @@
 - [mattmireles/magenta-realtime-2-iphone](https://github.com/mattmireles/magenta-realtime-2-iphone)
 - [akatz712/magic_designer_emulator](https://github.com/akatz712/magic_designer_emulator) *
 - [sunainapai/makesite](https://github.com/sunainapai/makesite) *
+- [kanaka/mal](https://github.com/kanaka/mal)
 - [tomchop/malcom](https://github.com/tomchop/malcom) *
 - [manimcommunity/manim](https://github.com/manimcommunity/manim) *
 - [elly99-ai/marcognity-ai](https://github.com/elly99-ai/marcognity-ai)
@@ -1056,6 +1057,7 @@
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) *
 - [jhyolm/stablemount](https://github.com/jhyolm/stablemount)
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) *
+- [alexrolls/startup-factory](https://github.com/alexrolls/startup-factory)
 - [fergana-labs/stash](https://github.com/fergana-labs/stash)
 - [aeilot/stay-away-from-my-screen](https://github.com/aeilot/stay-away-from-my-screen)
 - [blindcodes/stealth-benchmark](https://github.com/blindcodes/stealth-benchmark)

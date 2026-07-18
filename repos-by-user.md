@@ -64,6 +64,7 @@
 - [alexanderyappo/go-papa-carlo](https://github.com/alexanderyappo/go-papa-carlo)
 - [alexboia/abnet-poststats](https://github.com/alexboia/abnet-poststats)
 - [alexpl292/awesome-claude-spinners](https://github.com/alexpl292/awesome-claude-spinners)
+- [alexrolls/startup-factory](https://github.com/alexrolls/startup-factory)
 - [alexsjones/llmfit](https://github.com/alexsjones/llmfit)
 - [alexwasheree/notecast](https://github.com/alexwasheree/notecast)
 - [algo-boyz/odins-raylib](https://github.com/algo-boyz/odins-raylib)
@@ -629,6 +630,7 @@
 - [kaggle/kaggle-api](https://github.com/kaggle/kaggle-api) *
 - [kaleedtc/nitterium](https://github.com/kaleedtc/nitterium)
 - [kamilstanuch/codebase-digest](https://github.com/kamilstanuch/codebase-digest) *
+- [kanaka/mal](https://github.com/kanaka/mal)
 - [kanoniv/auth-action](https://github.com/kanoniv/auth-action)
 - [kaonashi-passwords/kaonashi](https://github.com/kaonashi-passwords/kaonashi) *
 - [kareltestspecial/real-agent-setup](https://github.com/kareltestspecial/real-agent-setup)
