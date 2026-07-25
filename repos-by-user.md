@@ -340,6 +340,7 @@
 - [dhruvasagar/dotfiles](https://github.com/dhruvasagar/dotfiles) *
 - [dial481/locomo-audit](https://github.com/dial481/locomo-audit)
 - [dielukasz-cyber/omega-kernel-protocol](https://github.com/dielukasz-cyber/omega-kernel-protocol)
+- [dilukangelosl/rs-semver](https://github.com/dilukangelosl/rs-semver)
 - [dimartarmizi/omnicloud](https://github.com/dimartarmizi/omnicloud)
 - [direct-img/direct-img.link](https://github.com/direct-img/direct-img.link)
 - [divide-by-0/macos-sudo-touchid](https://github.com/divide-by-0/macos-sudo-touchid)
@@ -451,6 +452,7 @@
 - [fwgadmin/mnemo](https://github.com/fwgadmin/mnemo)
 
 ## G
+- [gaia-research/gaia-skill-tree](https://github.com/gaia-research/gaia-skill-tree)
 - [galtay/hilbertcurve](https://github.com/galtay/hilbertcurve) *
 - [garacil/toplevelsystem](https://github.com/garacil/toplevelsystem)
 - [garyhtou/vercel-env-var-exposure-triager](https://github.com/garyhtou/vercel-env-var-exposure-triager)
@@ -531,9 +533,11 @@
 - [hiyouga/llama-factory](https://github.com/hiyouga/llama-factory) *
 - [hkshoonya/nvidia-broadcast-linux](https://github.com/hkshoonya/nvidia-broadcast-linux)
 - [hkuds/clawwork](https://github.com/hkuds/clawwork)
+- [holland202/principia-artificialis](https://github.com/holland202/principia-artificialis)
 - [horkyze/cudasha256](https://github.com/horkyze/cudasha256) *
 - [houqp/kiorg](https://github.com/houqp/kiorg)
 - [houseoffoss/eztest](https://github.com/houseoffoss/eztest)
+- [hsandhu/serve-avd](https://github.com/hsandhu/serve-avd)
 - [htrgouvea/nipe](https://github.com/htrgouvea/nipe) *
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
 - [huginn/huginn](https://github.com/huginn/huginn) *
@@ -588,6 +592,7 @@
 - [jasonmayes/vectorsearch.js](https://github.com/jasonmayes/vectorsearch.js)
 - [jasonxtn/argus](https://github.com/jasonxtn/argus) *
 - [javaid-codes/audit-supply-chain-agents](https://github.com/javaid-codes/audit-supply-chain-agents)
+- [jay403894-bit/jlib-scheduler](https://github.com/jay403894-bit/jlib-scheduler)
 - [jbarham/rsvp](https://github.com/jbarham/rsvp)
 - [jbunke/tdsm](https://github.com/jbunke/tdsm)
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) *
@@ -679,6 +684,7 @@
 - [lechmazur/buyout_game](https://github.com/lechmazur/buyout_game)
 - [lechmazur/position_bias](https://github.com/lechmazur/position_bias)
 - [leetronics/infnoise](https://github.com/leetronics/infnoise) *
+- [lemoncrow-lab/lemoncrow](https://github.com/lemoncrow-lab/lemoncrow)
 - [leonardholter/valentine-pip3-package](https://github.com/leonardholter/valentine-pip3-package)
 - [leotheaidev/altiverse](https://github.com/leotheaidev/altiverse)
 - [lessonstudio/visualcryptography](https://github.com/lessonstudio/visualcryptography) *
@@ -739,6 +745,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) *
 - [micahflee/hacks-leaks-and-revelations](https://github.com/micahflee/hacks-leaks-and-revelations) *
 - [micdarau/meeting-transcription-bench](https://github.com/micdarau/meeting-transcription-bench)
+- [micro/go-micro](https://github.com/micro/go-micro)
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli)
 - [microsoft/rusttraining](https://github.com/microsoft/rusttraining)
 - [microsoft/antissrf](https://github.com/microsoft/antissrf)
@@ -792,6 +799,7 @@
 - [navid-m/flightsim](https://github.com/navid-m/flightsim)
 - [nawfalmotii79/plfm_radar](https://github.com/nawfalmotii79/plfm_radar) *
 - [neo4j-labs/ai-governor](https://github.com/neo4j-labs/ai-governor)
+- [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)
 - [nevenkordic/broodlink](https://github.com/nevenkordic/broodlink)
 - [neverwalkaloner/classical-cryptanalysis](https://github.com/neverwalkaloner/classical-cryptanalysis) *
 - [nextdoor/lumina](https://github.com/nextdoor/lumina)
@@ -833,6 +841,7 @@
 - [omkar-foss/noslop-oss](https://github.com/omkar-foss/noslop-oss)
 - [onthemarkdata/petri](https://github.com/onthemarkdata/petri)
 - [onyks-os/transparenttorproxy](https://github.com/onyks-os/transparenttorproxy)
+- [open-ingress/openingress](https://github.com/open-ingress/openingress)
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal)
 - [openaec-foundation/open-pdf-studio](https://github.com/openaec-foundation/open-pdf-studio)
 - [openai/whisper](https://github.com/openai/whisper) *
@@ -857,12 +866,14 @@
 - [pdumicz/secret-shuttle](https://github.com/pdumicz/secret-shuttle)
 - [peakflo/20x](https://github.com/peakflo/20x)
 - [pearsonzero/kodak-pcd0992-statistical-characterization](https://github.com/pearsonzero/kodak-pcd0992-statistical-characterization)
+- [pedroshakoor/grok-build-ios](https://github.com/pedroshakoor/grok-build-ios)
 - [petergpt/doomql](https://github.com/petergpt/doomql)
 - [peterjfrancoiii/antigravity-model-reset-timer](https://github.com/peterjfrancoiii/antigravity-model-reset-timer)
 - [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)
 - [petersoj/jet](https://github.com/petersoj/jet)
 - [petewarden/spchcat](https://github.com/petewarden/spchcat) *
 - [pevers/sims-mcp](https://github.com/pevers/sims-mcp)
+- [ph-7/goodjscode](https://github.com/ph-7/goodjscode)
 - [phitux/dailytxt](https://github.com/phitux/dailytxt) *
 - [phpantom-dev/phpantom_lsp](https://github.com/phpantom-dev/phpantom_lsp)
 - [phyphox/phyphox-ios](https://github.com/phyphox/phyphox-ios) *
@@ -946,6 +957,7 @@
 - [richards199999/thinking-claude](https://github.com/richards199999/thinking-claude) *
 - [riftaway7-code/hackmate](https://github.com/riftaway7-code/hackmate)
 - [riktar/memledger](https://github.com/riktar/memledger)
+- [rionlyu/spoold](https://github.com/rionlyu/spoold)
 - [rishipratap10/memory-guardian](https://github.com/rishipratap10/memory-guardian)
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet)
 - [roading-os/obsidian-kernel](https://github.com/roading-os/obsidian-kernel)
