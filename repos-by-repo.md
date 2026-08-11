@@ -50,6 +50,7 @@
 - [agentswarms-fyi/agentswarms](https://github.com/agentswarms-fyi/agentswarms)
 - [agentvoy/agentvoy](https://github.com/agentvoy/agentvoy)
 - [agile-v/agile_v_skills](https://github.com/agile-v/agile_v_skills)
+- [kernlang/agon](https://github.com/kernlang/agon)
 - [rhein1/agoragentic-integrations](https://github.com/rhein1/agoragentic-integrations)
 - [vasileiosts/agribrain](https://github.com/vasileiosts/agribrain)
 - [usefulsoftworks/ai-agent-control-checklist](https://github.com/usefulsoftworks/ai-agent-control-checklist)
@@ -60,6 +61,7 @@
 - [neo4j-labs/ai-governor](https://github.com/neo4j-labs/ai-governor)
 - [ymuromcev/ai-job-searcher](https://github.com/ymuromcev/ai-job-searcher)
 - [fanitarantsopoulou/ai-news-aggregator](https://github.com/fanitarantsopoulou/ai-news-aggregator)
+- [leog/ai-pulse](https://github.com/leog/ai-pulse)
 - [bobbypartyai-dev/ai-quit-job](https://github.com/bobbypartyai-dev/ai-quit-job)
 - [ibrahimkobeissy/ai-second-brain-template](https://github.com/ibrahimkobeissy/ai-second-brain-template)
 - [kubikdb/ai-tools-for-learning](https://github.com/kubikdb/ai-tools-for-learning)
@@ -73,6 +75,7 @@
 - [robiw-dev/aist-protocol](https://github.com/robiw-dev/aist-protocol)
 - [andrewyng/aisuite](https://github.com/andrewyng/aisuite)
 - [gottebp/alan_parsons_project](https://github.com/gottebp/alan_parsons_project)
+- [kaipereira/alchemical-cosmological-badges](https://github.com/kaipereira/alchemical-cosmological-badges)
 - [thatsme/alexclaw](https://github.com/thatsme/alexclaw)
 - [macaly/almostnode](https://github.com/macaly/almostnode)
 - [adam-s/alphadidactic](https://github.com/adam-s/alphadidactic)
@@ -172,6 +175,7 @@
 - [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac)
 - [ronedmeades/bobbot](https://github.com/ronedmeades/bobbot)
 - [amal-david/bookshelf](https://github.com/amal-david/bookshelf)
+- [jdubois/boot-ui](https://github.com/jdubois/boot-ui)
 - [aditya-ds-1806/bore](https://github.com/aditya-ds-1806/bore)
 - [imbue-ai/bouncer](https://github.com/imbue-ai/bouncer)
 - [ghjj123/brainrotguard](https://github.com/ghjj123/brainrotguard)
@@ -204,11 +208,13 @@
 - [cameodb/cameodb](https://github.com/cameodb/cameodb)
 - [dweinstein/canary](https://github.com/dweinstein/canary)
 - [caprover/caprover](https://github.com/caprover/caprover)
+- [hyperlogue/captain-miao](https://github.com/hyperlogue/captain-miao)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
 - [the-resonance-institute/casa-runtime](https://github.com/the-resonance-institute/casa-runtime)
 - [sketchmyview/cassachange](https://github.com/sketchmyview/cassachange)
 - [gtutino/cco](https://github.com/gtutino/cco)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) *
+- [copilotkit/channels-sdk](https://github.com/copilotkit/channels-sdk)
 - [brightbeamai/chap](https://github.com/brightbeamai/chap)
 - [amanvirparhar/chaplin](https://github.com/amanvirparhar/chaplin)
 - [umbertocicciaa/chatgpt-cli](https://github.com/umbertocicciaa/chatgpt-cli)
@@ -260,7 +266,9 @@
 - [opensecurity/code-offline](https://github.com/opensecurity/code-offline)
 - [kamilstanuch/codebase-digest](https://github.com/kamilstanuch/codebase-digest) *
 - [jshchnz/codemaxxed](https://github.com/jshchnz/codemaxxed)
+- [akasula09/codeslimmer](https://github.com/akasula09/codeslimmer)
 - [mx7b7/codesnip-avalonia](https://github.com/mx7b7/codesnip-avalonia)
+- [foxtrotdev/codex-butler-bell](https://github.com/foxtrotdev/codex-butler-bell)
 - [z0rgoyok/codex-theme-controller](https://github.com/z0rgoyok/codex-theme-controller)
 - [gocolly/colly](https://github.com/gocolly/colly) *
 - [vihdzp/combinatorial-games](https://github.com/vihdzp/combinatorial-games)
@@ -384,6 +392,7 @@
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
 - [steforsyth5439-ai/ella-whitepaper](https://github.com/steforsyth5439-ai/ella-whitepaper)
 - [elophanto/elophanto](https://github.com/elophanto/elophanto)
+- [carpdiem/ember](https://github.com/carpdiem/ember)
 - [danielroe/empathy](https://github.com/danielroe/empathy)
 - [plyint/encpass.sh](https://github.com/plyint/encpass.sh) *
 - [engine-simulator/engine-sim-community-edition](https://github.com/engine-simulator/engine-sim-community-edition)
@@ -469,6 +478,7 @@
 - [ijonis/geo-lint](https://github.com/ijonis/geo-lint)
 - [8thpark/geode](https://github.com/8thpark/geode)
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic)
+- [ozkanpakdil/geotop](https://github.com/ozkanpakdil/geotop)
 - [raketenkater/ggrun](https://github.com/raketenkater/ggrun)
 - [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter)
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling)
@@ -670,6 +680,7 @@
 - [benjaminprice/lovable-downloader](https://github.com/benjaminprice/lovable-downloader)
 - [gterzian/lsp_agent](https://github.com/gterzian/lsp_agent)
 - [techpaula/lt6502](https://github.com/techpaula/lt6502)
+- [justvugg/lumabri](https://github.com/justvugg/lumabri)
 - [nextdoor/lumina](https://github.com/nextdoor/lumina)
 - [browserbox/lzw-x](https://github.com/browserbox/lzw-x)
 
@@ -699,6 +710,7 @@
 - [m2kr4r/matrix-kernel-root](https://github.com/m2kr4r/matrix-kernel-root)
 - [ajensenwaud/maturana](https://github.com/ajensenwaud/maturana)
 - [totes-mickgoats/mcgoats-game-template](https://github.com/totes-mickgoats/mcgoats-game-template)
+- [ytkoka/mcp-debug-proxy](https://github.com/ytkoka/mcp-debug-proxy)
 - [xtr-dev/mcp-playwright-novnc](https://github.com/xtr-dev/mcp-playwright-novnc)
 - [polymr-platform/mcp-sql](https://github.com/polymr-platform/mcp-sql)
 - [austinwise/mcp2ws](https://github.com/austinwise/mcp2ws)
@@ -733,6 +745,7 @@
 - [dharmadhillon/mnemo](https://github.com/dharmadhillon/mnemo)
 - [fwgadmin/mnemo](https://github.com/fwgadmin/mnemo)
 - [kwadwoadu/modelfit](https://github.com/kwadwoadu/modelfit)
+- [marella/modelregistry](https://github.com/marella/modelregistry)
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
 - [singlr-ai/monolith](https://github.com/singlr-ai/monolith)
 - [y2z/monolith](https://github.com/y2z/monolith) *
@@ -941,6 +954,7 @@
 - [pycrypto/pycrypto](https://github.com/pycrypto/pycrypto) *
 - [erabytse/pygantry](https://github.com/erabytse/pygantry)
 - [treyorr/pyra](https://github.com/treyorr/pyra)
+- [arnoldpredator/pyreplay](https://github.com/arnoldpredator/pyreplay)
 - [hailtododongo/pyrite64](https://github.com/hailtododongo/pyrite64)
 - [atizo/pytagcloud](https://github.com/atizo/pytagcloud) *
 - [selectel/pyte](https://github.com/selectel/pyte)
@@ -1047,6 +1061,7 @@
 - [seaworthy-io/seaworthy-mcp](https://github.com/seaworthy-io/seaworthy-mcp)
 - [pdumicz/secret-shuttle](https://github.com/pdumicz/secret-shuttle)
 - [techalchemistx/secretenv](https://github.com/techalchemistx/secretenv)
+- [tauansloboda/semantic-thermodynamics](https://github.com/tauansloboda/semantic-thermodynamics)
 - [deepanwadhwa/semi_private_chat](https://github.com/deepanwadhwa/semi_private_chat)
 - [spencer0124/sentencepiecekit](https://github.com/spencer0124/sentencepiecekit)
 - [azdhril/sentinel](https://github.com/azdhril/sentinel)
@@ -1056,6 +1071,7 @@
 - [eap5662/serverless-sentinel](https://github.com/eap5662/serverless-sentinel)
 - [system-glitch/sha256](https://github.com/system-glitch/sha256) *
 - [in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation) *
+- [corleonesalute/shadow-blocker-blocklist](https://github.com/corleonesalute/shadow-blocker-blocklist)
 - [keygraphhq/shannon](https://github.com/keygraphhq/shannon)
 - [sake92/sharaf](https://github.com/sake92/sharaf)
 - [a-funk/sharkclean-mcp](https://github.com/a-funk/sharkclean-mcp)
@@ -1170,6 +1186,7 @@
 - [mehrdad3301/tiny-lsm](https://github.com/mehrdad3301/tiny-lsm)
 - [gregac/tiny-nn](https://github.com/gregac/tiny-nn)
 - [tinyops-labs/tinyops.core](https://github.com/tinyops-labs/tinyops.core)
+- [stonysystems/tla-rs](https://github.com/stonysystems/tla-rs)
 - [tlaplus/tlaibench](https://github.com/tlaplus/tlaibench)
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) *
 - [dylandevelops/tmpo](https://github.com/dylandevelops/tmpo)
@@ -1197,6 +1214,7 @@
 - [montyanderson/ts-sha256](https://github.com/montyanderson/ts-sha256)
 - [abdullaho/tspdb](https://github.com/abdullaho/tspdb) *
 - [tuneloop/tuneloop](https://github.com/tuneloop/tuneloop)
+- [tunnel-whisperer/tunnel-whisperer](https://github.com/tunnel-whisperer/tunnel-whisperer)
 - [ahmetvural79/tunr](https://github.com/ahmetvural79/tunr)
 - [tuplex/tuplex](https://github.com/tuplex/tuplex) *
 - [justrach/turboapi](https://github.com/justrach/turboapi)
@@ -1258,6 +1276,7 @@
 - [ofou/webgrid_eval](https://github.com/ofou/webgrid_eval)
 - [keak-ai/webmcp-core](https://github.com/keak-ai/webmcp-core)
 - [ericwbailey/what-cant-i-press](https://github.com/ericwbailey/what-cant-i-press)
+- [iamkaran/whats](https://github.com/iamkaran/whats)
 - [dbreunig/whenwords](https://github.com/dbreunig/whenwords)
 - [openai/whisper](https://github.com/openai/whisper) *
 - [anubhavgupta/whisper-npu](https://github.com/anubhavgupta/whisper-npu)
@@ -1285,6 +1304,7 @@
 - [ymattw/ydiff](https://github.com/ymattw/ydiff) *
 - [trekhleb/yesbrainer](https://github.com/trekhleb/yesbrainer)
 - [borenstein/yolo-cage](https://github.com/borenstein/yolo-cage)
+- [puutaro/yomel](https://github.com/puutaro/yomel)
 - [pnhoang/youtube-spam-blocker](https://github.com/pnhoang/youtube-spam-blocker)
 - [kaya70875/ytfetcher](https://github.com/kaya70875/ytfetcher)
 - [drduh/yubikey-guide](https://github.com/drduh/yubikey-guide) *
