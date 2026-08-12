@@ -250,6 +250,7 @@
 - [gmr/claude-status](https://github.com/gmr/claude-status)
 - [mbwsims/claude-universe](https://github.com/mbwsims/claude-universe)
 - [firish/claude_code_vs](https://github.com/firish/claude_code_vs)
+- [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 - [regnull/claudshi](https://github.com/regnull/claudshi)
 - [sttts/claw64](https://github.com/sttts/claw64)
 - [sleuthco/clawshield-public](https://github.com/sleuthco/clawshield-public)
@@ -270,6 +271,7 @@
 - [mx7b7/codesnip-avalonia](https://github.com/mx7b7/codesnip-avalonia)
 - [foxtrotdev/codex-butler-bell](https://github.com/foxtrotdev/codex-butler-bell)
 - [z0rgoyok/codex-theme-controller](https://github.com/z0rgoyok/codex-theme-controller)
+- [robert-mcdermott/collomia](https://github.com/robert-mcdermott/collomia)
 - [gocolly/colly](https://github.com/gocolly/colly) *
 - [vihdzp/combinatorial-games](https://github.com/vihdzp/combinatorial-games)
 - [vaishnav-sabari-girish/comchan](https://github.com/vaishnav-sabari-girish/comchan)
@@ -969,6 +971,7 @@
 ## Q
 - [za3k/qr-backup](https://github.com/za3k/qr-backup) *
 - [smyrgeorge/qrt](https://github.com/smyrgeorge/qrt)
+- [julienmaille/qtscript-qt6](https://github.com/julienmaille/qtscript-qt6)
 - [federicots/quantprobe](https://github.com/federicots/quantprobe)
 - [universalcodexs/quantum-safe-manifold](https://github.com/universalcodexs/quantum-safe-manifold)
 - [aaravchour/quantx](https://github.com/aaravchour/quantx)

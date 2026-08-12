@@ -518,6 +518,7 @@
 - [guilamu/reddit-gdpr-export-viewer](https://github.com/guilamu/reddit-gdpr-export-viewer)
 - [guimaster97/pii-sanitizer-gateway](https://github.com/guimaster97/pii-sanitizer-gateway)
 - [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer)
+- [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 
 ## H
 - [h-freax/termhub](https://github.com/h-freax/termhub)
@@ -649,6 +650,7 @@
 - [jtvargas/crosspoint-app](https://github.com/jtvargas/crosspoint-app)
 - [juliaanimators/javis.jl](https://github.com/juliaanimators/javis.jl) *
 - [julien-cpsn/atac](https://github.com/julien-cpsn/atac) *
+- [julienmaille/qtscript-qt6](https://github.com/julienmaille/qtscript-qt6)
 - [jundot/omlx](https://github.com/jundot/omlx)
 - [junegunn/fzf](https://github.com/junegunn/fzf) *
 - [justindmassey/diamond](https://github.com/justindmassey/diamond)
@@ -1011,6 +1013,7 @@
 - [rizzdev/claude-detective](https://github.com/rizzdev/claude-detective)
 - [roading-os/obsidian-kernel](https://github.com/roading-os/obsidian-kernel)
 - [robert-mcdermott/phlox](https://github.com/robert-mcdermott/phlox)
+- [robert-mcdermott/collomia](https://github.com/robert-mcdermott/collomia)
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) *
 - [robertleoj/lensboy](https://github.com/robertleoj/lensboy)
 - [robiw-dev/aist-protocol](https://github.com/robiw-dev/aist-protocol)
