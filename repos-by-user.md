@@ -265,6 +265,7 @@
 - [cinnamon/kotaemon](https://github.com/cinnamon/kotaemon)
 - [cipher-attack/chimera](https://github.com/cipher-attack/chimera)
 - [cipherdothost/pkgdex](https://github.com/cipherdothost/pkgdex)
+- [ciromattia/kcc](https://github.com/ciromattia/kcc)
 - [cisagov/thorium](https://github.com/cisagov/thorium) *
 - [citadelgrad/shiftit](https://github.com/citadelgrad/shiftit)
 - [cladam/drift](https://github.com/cladam/drift)
@@ -426,6 +427,7 @@
 - [engine-simulator/engine-sim-community-edition](https://github.com/engine-simulator/engine-sim-community-edition)
 - [entgldb/blite](https://github.com/entgldb/blite)
 - [erabytse/pygantry](https://github.com/erabytse/pygantry)
+- [ericandrechek/pacer](https://github.com/ericandrechek/pacer)
 - [ericwbailey/what-cant-i-press](https://github.com/ericwbailey/what-cant-i-press)
 - [erikshelley/complete-family-tree-viewer](https://github.com/erikshelley/complete-family-tree-viewer)
 - [erkoknoll/helbreath-base-game](https://github.com/erkoknoll/helbreath-base-game)
@@ -585,6 +587,7 @@
 - [iamzoy/minio](https://github.com/iamzoy/minio)
 - [ianm199/valdr](https://github.com/ianm199/valdr)
 - [ibl-tools/rawtohdri](https://github.com/ibl-tools/rawtohdri)
+- [ibondarenko1/security-anomaly-ml](https://github.com/ibondarenko1/security-anomaly-ml)
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
 - [ibrahimkobeissy/ai-second-brain-template](https://github.com/ibrahimkobeissy/ai-second-brain-template)
 - [icarossio/y-combinator](https://github.com/icarossio/y-combinator)
@@ -770,6 +773,7 @@
 - [makisp/releasejet](https://github.com/makisp/releasejet)
 - [manifoldco/torus-cli](https://github.com/manifoldco/torus-cli) *
 - [manimcommunity/manim](https://github.com/manimcommunity/manim) *
+- [marcsnid/steganeur](https://github.com/marcsnid/steganeur)
 - [maref-org/maref](https://github.com/maref-org/maref)
 - [marella/modelregistry](https://github.com/marella/modelregistry)
 - [markdregan/bayesian-modelling-in-python](https://github.com/markdregan/bayesian-modelling-in-python) *
@@ -1222,6 +1226,7 @@
 - [trrahul/xamlmcp](https://github.com/trrahul/xamlmcp)
 - [truenas/scale-build](https://github.com/truenas/scale-build)
 - [trupositive-ai/trupositive](https://github.com/trupositive-ai/trupositive)
+- [trycaspian/caspian-sdk](https://github.com/trycaspian/caspian-sdk)
 - [tryskilly/skilly](https://github.com/tryskilly/skilly)
 - [tsirysndr/fin](https://github.com/tsirysndr/fin)
 - [tstack/lnav](https://github.com/tstack/lnav) *

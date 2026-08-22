@@ -215,6 +215,7 @@
 - [hyperlogue/captain-miao](https://github.com/hyperlogue/captain-miao)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
 - [the-resonance-institute/casa-runtime](https://github.com/the-resonance-institute/casa-runtime)
+- [trycaspian/caspian-sdk](https://github.com/trycaspian/caspian-sdk)
 - [sketchmyview/cassachange](https://github.com/sketchmyview/cassachange)
 - [gtutino/cco](https://github.com/gtutino/cco)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) *
@@ -627,6 +628,7 @@
 - [kaonashi-passwords/kaonashi](https://github.com/kaonashi-passwords/kaonashi) *
 - [rorz/karma-bar](https://github.com/rorz/karma-bar)
 - [katex/katex](https://github.com/katex/katex) *
+- [ciromattia/kcc](https://github.com/ciromattia/kcc)
 - [keploy/keploy](https://github.com/keploy/keploy)
 - [egroup-labs/kept](https://github.com/egroup-labs/kept)
 - [keychron/keychron-keyboards-hardware-design](https://github.com/keychron/keychron-keyboards-hardware-design)
@@ -891,6 +893,7 @@
 - [khaeldur/overflowml](https://github.com/khaeldur/overflowml)
 
 ## P
+- [ericandrechek/pacer](https://github.com/ericandrechek/pacer)
 - [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)
 - [trianalab/pacto](https://github.com/trianalab/pacto)
 - [tw93/pake](https://github.com/tw93/pake)
@@ -1088,6 +1091,7 @@
 - [seaworthy-io/seaworthy-mcp](https://github.com/seaworthy-io/seaworthy-mcp)
 - [pdumicz/secret-shuttle](https://github.com/pdumicz/secret-shuttle)
 - [techalchemistx/secretenv](https://github.com/techalchemistx/secretenv)
+- [ibondarenko1/security-anomaly-ml](https://github.com/ibondarenko1/security-anomaly-ml)
 - [tauansloboda/semantic-thermodynamics](https://github.com/tauansloboda/semantic-thermodynamics)
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica)
 - [deepanwadhwa/semi_private_chat](https://github.com/deepanwadhwa/semi_private_chat)
@@ -1159,6 +1163,7 @@
 - [fergana-labs/stash](https://github.com/fergana-labs/stash)
 - [aeilot/stay-away-from-my-screen](https://github.com/aeilot/stay-away-from-my-screen)
 - [blindcodes/stealth-benchmark](https://github.com/blindcodes/stealth-benchmark)
+- [marcsnid/steganeur](https://github.com/marcsnid/steganeur)
 - [stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck)
 - [tgys/stl-slicer](https://github.com/tgys/stl-slicer)
 - [storj/storj](https://github.com/storj/storj) *
