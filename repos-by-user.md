@@ -5,6 +5,9 @@
 ## 1
 - [19h/epathfinder](https://github.com/19h/epathfinder)
 
+## 2
+- [291-group/lan-sheriff](https://github.com/291-group/lan-sheriff)
+
 ## 4
 - [49agents/49agents](https://github.com/49agents/49agents)
 - [4n4nk3/wordlister](https://github.com/4n4nk3/wordlister) *
@@ -148,6 +151,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) *
 - [aws-samples/sample-gedd](https://github.com/aws-samples/sample-gedd)
 - [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter)
+- [aysark/opendryfire](https://github.com/aysark/opendryfire)
 - [azdhril/sentinel](https://github.com/azdhril/sentinel)
 
 ## B
@@ -555,6 +559,7 @@
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) *
 - [haydenjames/mysqlmonitor-script](https://github.com/haydenjames/mysqlmonitor-script)
 - [headyzhang/agent-audit](https://github.com/headyzhang/agent-audit)
+- [heinevwinston-bot/pagelens](https://github.com/heinevwinston-bot/pagelens)
 - [helixdb/helix-db](https://github.com/helixdb/helix-db)
 - [hemildesai/imperial](https://github.com/hemildesai/imperial)
 - [henrythe9th/official-lean-ai-native-leaderboard](https://github.com/henrythe9th/official-lean-ai-native-leaderboard)
@@ -656,6 +661,7 @@
 - [josephredfern/plonk](https://github.com/josephredfern/plonk)
 - [jqlang/jq](https://github.com/jqlang/jq) *
 - [jrblevin/dot-grid-paper](https://github.com/jrblevin/dot-grid-paper) *
+- [jrullan/ducklab](https://github.com/jrullan/ducklab)
 - [jschauma/puddy](https://github.com/jschauma/puddy) *
 - [jshchnz/codemaxxed](https://github.com/jshchnz/codemaxxed)
 - [jstrieb/link-lock](https://github.com/jstrieb/link-lock) *
@@ -728,6 +734,7 @@
 - [larryste1/web-search-tool](https://github.com/larryste1/web-search-tool)
 - [laskco/mpvnova](https://github.com/laskco/mpvnova)
 - [laurentenhoor/devclaw](https://github.com/laurentenhoor/devclaw)
+- [lbrndnr/beeper](https://github.com/lbrndnr/beeper)
 - [lechmazur/buyout_game](https://github.com/lechmazur/buyout_game)
 - [lechmazur/position_bias](https://github.com/lechmazur/position_bias)
 - [leetronics/infnoise](https://github.com/leetronics/infnoise) *
@@ -778,6 +785,7 @@
 - [marella/modelregistry](https://github.com/marella/modelregistry)
 - [markdregan/bayesian-modelling-in-python](https://github.com/markdregan/bayesian-modelling-in-python) *
 - [markosnarinian/fold-logging.nvim](https://github.com/markosnarinian/fold-logging.nvim)
+- [martint/henka](https://github.com/martint/henka)
 - [mate-desktop/mate-screensaver](https://github.com/mate-desktop/mate-screensaver) *
 - [mathjax/mathjax](https://github.com/mathjax/mathjax) *
 - [mathmeetsart/lorenz-attractor](https://github.com/mathmeetsart/lorenz-attractor) *
@@ -1068,6 +1076,7 @@
 - [saward/spawn](https://github.com/saward/spawn)
 - [scastiel/kado](https://github.com/scastiel/kado)
 - [sccs-hq/legal-contract-version-control](https://github.com/sccs-hq/legal-contract-version-control)
+- [schappim/mygrok](https://github.com/schappim/mygrok)
 - [schedmd/slurm](https://github.com/schedmd/slurm)
 - [schildep/verified-polygon-intersection](https://github.com/schildep/verified-polygon-intersection)
 - [scosman/cursed_browser](https://github.com/scosman/cursed_browser)
@@ -1083,6 +1092,7 @@
 - [sgunadhya/ambient](https://github.com/sgunadhya/ambient)
 - [sh3ll3x3c/native-devtools-mcp](https://github.com/sh3ll3x3c/native-devtools-mcp)
 - [shadowy-pycoder/go-http-proxy-to-socks](https://github.com/shadowy-pycoder/go-http-proxy-to-socks)
+- [shaharia-lab/slackcli](https://github.com/shaharia-lab/slackcli)
 - [shantanugupta43/suggestpilot](https://github.com/shantanugupta43/suggestpilot)
 - [sharkdp/bat](https://github.com/sharkdp/bat) *
 - [shawn-shan/fawkes](https://github.com/shawn-shan/fawkes) *
@@ -1119,6 +1129,7 @@
 - [spranab/brainstorm-mcp](https://github.com/spranab/brainstorm-mcp)
 - [sreejay-reddy/sentinel](https://github.com/sreejay-reddy/sentinel)
 - [stammanif/mcp-stama](https://github.com/stammanif/mcp-stama)
+- [stared/equations-explained-colorfully](https://github.com/stared/equations-explained-colorfully)
 - [stategraph/argus](https://github.com/stategraph/argus)
 - [stefanbohacek/mastodon-tools](https://github.com/stefanbohacek/mastodon-tools) *
 - [steforsyth5439-ai/ella-whitepaper](https://github.com/steforsyth5439-ai/ella-whitepaper)
@@ -1137,6 +1148,7 @@
 - [strands-labs/ai-functions](https://github.com/strands-labs/ai-functions)
 - [streamlineddesigns/sparse-mixture-of-experts](https://github.com/streamlineddesigns/sparse-mixture-of-experts)
 - [sttts/claw64](https://github.com/sttts/claw64)
+- [sturlese/stigmergy](https://github.com/sturlese/stigmergy)
 - [subhanhakverdiyev/optimizeql](https://github.com/subhanhakverdiyev/optimizeql)
 - [sunainapai/makesite](https://github.com/sunainapai/makesite) *
 - [super-jaba/fix-migration-order](https://github.com/super-jaba/fix-migration-order)
@@ -1322,6 +1334,7 @@
 ## Y
 - [y2z/monolith](https://github.com/y2z/monolith) *
 - [yakkomajuri/teeny](https://github.com/yakkomajuri/teeny) *
+- [yangofzeal/hkd_merkle](https://github.com/yangofzeal/hkd_merkle)
 - [yashdhanore/circle2search](https://github.com/yashdhanore/circle2search)
 - [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000)
 - [yiaany/devquest](https://github.com/yiaany/devquest)

@@ -161,6 +161,7 @@
 - [markdregan/bayesian-modelling-in-python](https://github.com/markdregan/bayesian-modelling-in-python) *
 - [finite-sample/bcr](https://github.com/finite-sample/bcr)
 - [interfacedreams/bee-claude](https://github.com/interfacedreams/bee-claude)
+- [lbrndnr/beeper](https://github.com/lbrndnr/beeper)
 - [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein)
 - [eggermarc/better-auth-usage](https://github.com/eggermarc/better-auth-usage)
 - [benja2998/better-sync](https://github.com/benja2998/better-sync)
@@ -388,6 +389,7 @@
 - [dailysoftwaresystems/dss-code-prime](https://github.com/dailysoftwaresystems/dss-code-prime)
 - [bxrne/dstest](https://github.com/bxrne/dstest)
 - [dusteddk/dstream-clients](https://github.com/dusteddk/dstream-clients)
+- [jrullan/ducklab](https://github.com/jrullan/ducklab)
 - [muesli/duf](https://github.com/muesli/duf) *
 - [iss4cf0ng/duplexspycs](https://github.com/iss4cf0ng/duplexspycs)
 - [vekuz/durcoin](https://github.com/vekuz/durcoin)
@@ -417,6 +419,7 @@
 - [deepseek-ai/eplb](https://github.com/deepseek-ai/eplb)
 - [randallscott25-star/epstein-forensic-finance](https://github.com/randallscott25-star/epstein-forensic-finance)
 - [monsieurpigeon/epsteinomatic](https://github.com/monsieurpigeon/epsteinomatic)
+- [stared/equations-explained-colorfully](https://github.com/stared/equations-explained-colorfully)
 - [emenstanougat/esp32-bluejammer](https://github.com/emenstanougat/esp32-bluejammer) *
 - [harryhighpants/esp32-contributions-epd](https://github.com/harryhighpants/esp32-contributions-epd) *
 - [harryhighpants/esp32-git-contributions-epd](https://github.com/harryhighpants/esp32-git-contributions-epd)
@@ -553,10 +556,12 @@
 - [erkoknoll/helbreath-base-game](https://github.com/erkoknoll/helbreath-base-game)
 - [helixdb/helix-db](https://github.com/helixdb/helix-db)
 - [tech1k/helloesp](https://github.com/tech1k/helloesp)
+- [martint/henka](https://github.com/martint/henka)
 - [bevel-software/hexis](https://github.com/bevel-software/hexis)
 - [alvarobartt/hf-mem](https://github.com/alvarobartt/hf-mem)
 - [galtay/hilbertcurve](https://github.com/galtay/hilbertcurve) *
 - [hisaabo/hisaabo](https://github.com/hisaabo/hisaabo)
+- [yangofzeal/hkd_merkle](https://github.com/yangofzeal/hkd_merkle)
 - [cecinuga/hmap](https://github.com/cecinuga/hmap)
 - [rajeshkumarblr/hn_station](https://github.com/rajeshkumarblr/hn_station)
 - [prasanthj/hnr](https://github.com/prasanthj/hnr)
@@ -651,6 +656,7 @@
 
 ## L
 - [imaznation/lametric-recovery](https://github.com/imaznation/lametric-recovery)
+- [291-group/lan-sheriff](https://github.com/291-group/lan-sheriff)
 - [soypat/lan8720](https://github.com/soypat/lan8720)
 - [cameronlonsdale/lantern](https://github.com/cameronlonsdale/lantern) *
 - [prashantdhuri08/lanview-cli](https://github.com/prashantdhuri08/lanview-cli)
@@ -792,6 +798,7 @@
 - [btahir/musicli](https://github.com/btahir/musicli)
 - [egonruiter/mx2-sandbox](https://github.com/egonruiter/mx2-sandbox)
 - [jinba1/my-time-has-come](https://github.com/jinba1/my-time-has-come)
+- [schappim/mygrok](https://github.com/schappim/mygrok)
 - [therealarthur/myrlin-workbook](https://github.com/therealarthur/myrlin-workbook)
 - [haydenjames/mysqlmonitor-script](https://github.com/haydenjames/mysqlmonitor-script)
 
@@ -868,6 +875,7 @@
 - [momo-personal-assistant/openclaw-plugin](https://github.com/momo-personal-assistant/openclaw-plugin)
 - [openserv-labs/openclaw-voice-avatar](https://github.com/openserv-labs/openclaw-voice-avatar)
 - [opencognit/opencognit](https://github.com/opencognit/opencognit)
+- [aysark/opendryfire](https://github.com/aysark/opendryfire)
 - [openfootmanager/openfootmanager](https://github.com/openfootmanager/openfootmanager)
 - [arifozgun/opengem](https://github.com/arifozgun/opengem)
 - [open-ingress/openingress](https://github.com/open-ingress/openingress)
@@ -896,6 +904,7 @@
 - [ericandrechek/pacer](https://github.com/ericandrechek/pacer)
 - [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)
 - [trianalab/pacto](https://github.com/trianalab/pacto)
+- [heinevwinston-bot/pagelens](https://github.com/heinevwinston-bot/pagelens)
 - [tw93/pake](https://github.com/tw93/pake)
 - [wandmalfarbe/pandoc-latex-template](https://github.com/wandmalfarbe/pandoc-latex-template) *
 - [abhishek-verma/pane](https://github.com/abhishek-verma/pane)
@@ -1134,6 +1143,7 @@
 - [gepheum/skir](https://github.com/gepheum/skir)
 - [consciousgroupmind/skynet-800---collective-intelligence-forecasting-system](https://github.com/consciousgroupmind/skynet-800---collective-intelligence-forecasting-system)
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server)
+- [shaharia-lab/slackcli](https://github.com/shaharia-lab/slackcli)
 - [simpart/slat-io](https://github.com/simpart/slat-io)
 - [dylan-thinnes/slide-rules-generator](https://github.com/dylan-thinnes/slide-rules-generator) *
 - [schedmd/slurm](https://github.com/schedmd/slurm)
@@ -1165,6 +1175,7 @@
 - [blindcodes/stealth-benchmark](https://github.com/blindcodes/stealth-benchmark)
 - [marcsnid/steganeur](https://github.com/marcsnid/steganeur)
 - [stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck)
+- [sturlese/stigmergy](https://github.com/sturlese/stigmergy)
 - [tgys/stl-slicer](https://github.com/tgys/stl-slicer)
 - [storj/storj](https://github.com/storj/storj) *
 - [pretzelai/stripe-no-webhooks](https://github.com/pretzelai/stripe-no-webhooks)
