@@ -36,6 +36,7 @@
 - [adam-cad/cadam](https://github.com/adam-cad/cadam)
 - [adam-s/agent-tuning](https://github.com/adam-s/agent-tuning)
 - [adam-s/alphadidactic](https://github.com/adam-s/alphadidactic)
+- [adamsilverstein/lib-open-ultrahdr](https://github.com/adamsilverstein/lib-open-ultrahdr)
 - [adbusterofficial/adbuster--winapp](https://github.com/adbusterofficial/adbuster--winapp)
 - [adil192/ricochlime](https://github.com/adil192/ricochlime)
 - [ading2210/doompdf](https://github.com/ading2210/doompdf) *
@@ -205,6 +206,7 @@
 - [boj/opty](https://github.com/boj/opty)
 - [boldsoftware/shelley](https://github.com/boldsoftware/shelley)
 - [bonkai/afterkey](https://github.com/bonkai/afterkey)
+- [boomctl/git-ark](https://github.com/boomctl/git-ark)
 - [boratanrikulu/gecit](https://github.com/boratanrikulu/gecit)
 - [boratanrikulu/gobee](https://github.com/boratanrikulu/gobee)
 - [borenstein/yolo-cage](https://github.com/borenstein/yolo-cage)
@@ -239,6 +241,7 @@
 - [calganaygun/poke-pc](https://github.com/calganaygun/poke-pc)
 - [calinvladth/transfer-files-through-sockets](https://github.com/calinvladth/transfer-files-through-sockets)
 - [callmealphabet/fastwc](https://github.com/callmealphabet/fastwc)
+- [callumreid/cow_code](https://github.com/callumreid/cow_code)
 - [cameodb/cameodb](https://github.com/cameodb/cameodb)
 - [cameronlonsdale/lantern](https://github.com/cameronlonsdale/lantern) *
 - [canop/broot](https://github.com/canop/broot)
@@ -283,6 +286,7 @@
 - [codazoda/peen](https://github.com/codazoda/peen)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) *
 - [codelion/adaptive-classifier](https://github.com/codelion/adaptive-classifier)
+- [coder/wush](https://github.com/coder/wush)
 - [codingfisch/flashrl](https://github.com/codingfisch/flashrl)
 - [codingstark-dev/bunkill](https://github.com/codingstark-dev/bunkill)
 - [codingtrain/creative-coding-processing-full-course](https://github.com/codingtrain/creative-coding-processing-full-course) *
@@ -306,6 +310,7 @@
 - [cranot/grouped-simd-hashtable](https://github.com/cranot/grouped-simd-hashtable)
 - [crevas/apple-ads-cli](https://github.com/crevas/apple-ads-cli)
 - [crimsondemon567pc/javapp](https://github.com/crimsondemon567pc/javapp)
+- [crispstrobe/crispasr](https://github.com/crispstrobe/crispasr)
 - [cryfs/cryfs](https://github.com/cryfs/cryfs) *
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) *
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) *
@@ -528,6 +533,7 @@
 - [greghaskins/gibberish](https://github.com/greghaskins/gibberish) *
 - [greydgl/pentestgpt](https://github.com/greydgl/pentestgpt) *
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) *
+- [gsttm/norms](https://github.com/gsttm/norms)
 - [gterzian/lsp_agent](https://github.com/gterzian/lsp_agent)
 - [gtutino/cco](https://github.com/gtutino/cco)
 - [guilamu/reddit-gdpr-export-viewer](https://github.com/guilamu/reddit-gdpr-export-viewer)
@@ -569,6 +575,7 @@
 - [highpost/tailscale-macos-vm](https://github.com/highpost/tailscale-macos-vm)
 - [hiroshiyui/baudrate](https://github.com/hiroshiyui/baudrate)
 - [hisaabo/hisaabo](https://github.com/hisaabo/hisaabo)
+- [hiskudn/open-r-lens](https://github.com/hiskudn/open-r-lens)
 - [hiyouga/llama-factory](https://github.com/hiyouga/llama-factory) *
 - [hkshoonya/nvidia-broadcast-linux](https://github.com/hkshoonya/nvidia-broadcast-linux)
 - [hkuds/clawwork](https://github.com/hkuds/clawwork)
@@ -581,9 +588,11 @@
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
 - [hughhowey/neo](https://github.com/hughhowey/neo)
 - [huginn/huginn](https://github.com/huginn/huginn) *
+- [husker/a2acast](https://github.com/husker/a2acast)
 - [hxii/peek](https://github.com/hxii/peek)
 - [hyperlogue/captain-miao](https://github.com/hyperlogue/captain-miao)
 - [hyperwindmill/morphql](https://github.com/hyperwindmill/morphql)
+- [hyperwise-llc/freshctx](https://github.com/hyperwise-llc/freshctx)
 
 ## I
 - [iamfaham/agentsnap](https://github.com/iamfaham/agentsnap)
@@ -598,6 +607,7 @@
 - [icarossio/y-combinator](https://github.com/icarossio/y-combinator)
 - [icyrainz/revspec-py](https://github.com/icyrainz/revspec-py)
 - [ideoalabs/open-sable](https://github.com/ideoalabs/open-sable)
+- [idogol24/weir](https://github.com/idogol24/weir)
 - [ijonis/geo-lint](https://github.com/ijonis/geo-lint)
 - [im-tomu/tomu-quickstart](https://github.com/im-tomu/tomu-quickstart) *
 - [im-tomu/tomu-samples](https://github.com/im-tomu/tomu-samples) *
@@ -652,6 +662,7 @@
 - [jinba1/my-time-has-come](https://github.com/jinba1/my-time-has-come)
 - [jkheadley/instar](https://github.com/jkheadley/instar)
 - [jlw-7/wally](https://github.com/jlw-7/wally)
+- [jmurth1234/t2-touchid-linux](https://github.com/jmurth1234/t2-touchid-linux)
 - [joaquinariasco-lab/flowing](https://github.com/joaquinariasco-lab/flowing)
 - [joe223/ariatype](https://github.com/joe223/ariatype)
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) *
@@ -718,6 +729,7 @@
 - [knadh/listmonk](https://github.com/knadh/listmonk) *
 - [knuspii/crunchycleaner](https://github.com/knuspii/crunchycleaner)
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+- [kontext-security/sandy](https://github.com/kontext-security/sandy)
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server)
 - [krillclaw/krillclaw](https://github.com/krillclaw/krillclaw)
 - [kristijankocev/lidwatch](https://github.com/kristijankocev/lidwatch)
@@ -820,9 +832,11 @@
 - [mieubrisse/agenc](https://github.com/mieubrisse/agenc)
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) *
 - [migetapp/migetpacks](https://github.com/migetapp/migetpacks)
+- [migmargil/sqlite-diff-log](https://github.com/migmargil/sqlite-diff-log)
 - [miguelripoll23/jwt-studio](https://github.com/miguelripoll23/jwt-studio)
 - [mikepound/enigma](https://github.com/mikepound/enigma) *
 - [mikeroyal/wireguard-guide](https://github.com/mikeroyal/wireguard-guide) *
+- [mildynora/envault](https://github.com/mildynora/envault)
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) *
 - [misha-met/delta](https://github.com/misha-met/delta)
 - [misp/misp-ghidra](https://github.com/misp/misp-ghidra)
@@ -846,6 +860,7 @@
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) *
 - [mr-kelly/far](https://github.com/mr-kelly/far)
 - [mraml/nod](https://github.com/mraml/nod)
+- [mudler/localai](https://github.com/mudler/localai)
 - [muesli/duf](https://github.com/muesli/duf) *
 - [multigres/multigres-operator](https://github.com/multigres/multigres-operator)
 - [munnam77/awesome-openclaw-security](https://github.com/munnam77/awesome-openclaw-security)
@@ -1080,6 +1095,7 @@
 - [schedmd/slurm](https://github.com/schedmd/slurm)
 - [schildep/verified-polygon-intersection](https://github.com/schildep/verified-polygon-intersection)
 - [scosman/cursed_browser](https://github.com/scosman/cursed_browser)
+- [scynthiadunlop/writingfordevelopersbook](https://github.com/scynthiadunlop/writingfordevelopersbook)
 - [seaworthy-io/seaworthy-mcp](https://github.com/seaworthy-io/seaworthy-mcp)
 - [sebuzdugan/agent-eval-harness](https://github.com/sebuzdugan/agent-eval-harness)
 - [secluso/core](https://github.com/secluso/core)
@@ -1097,6 +1113,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) *
 - [shawn-shan/fawkes](https://github.com/shawn-shan/fawkes) *
 - [shenli/distributed-system-testing](https://github.com/shenli/distributed-system-testing)
+- [shenli/devtool-ax-kit](https://github.com/shenli/devtool-ax-kit)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) *
 - [shirozuki/claude-cli](https://github.com/shirozuki/claude-cli)
 - [shreyasdasari/churnguard-ai](https://github.com/shreyasdasari/churnguard-ai)
@@ -1119,6 +1136,7 @@
 - [smashah/quran.sh](https://github.com/smashah/quran.sh)
 - [smyrgeorge/qrt](https://github.com/smyrgeorge/qrt)
 - [softcane/hamza](https://github.com/softcane/hamza)
+- [solodynamo/ration](https://github.com/solodynamo/ration)
 - [someben/rowing-reader](https://github.com/someben/rowing-reader)
 - [sourishkrout/skills](https://github.com/sourishkrout/skills)
 - [soypat/lan8720](https://github.com/soypat/lan8720)
@@ -1148,8 +1166,10 @@
 - [strands-labs/ai-functions](https://github.com/strands-labs/ai-functions)
 - [streamlineddesigns/sparse-mixture-of-experts](https://github.com/streamlineddesigns/sparse-mixture-of-experts)
 - [sttts/claw64](https://github.com/sttts/claw64)
+- [stubbb/c-shop](https://github.com/stubbb/c-shop)
 - [sturlese/stigmergy](https://github.com/sturlese/stigmergy)
 - [subhanhakverdiyev/optimizeql](https://github.com/subhanhakverdiyev/optimizeql)
+- [sulabhdubey/rta-smriti-brain](https://github.com/sulabhdubey/rta-smriti-brain)
 - [sunainapai/makesite](https://github.com/sunainapai/makesite) *
 - [super-jaba/fix-migration-order](https://github.com/super-jaba/fix-migration-order)
 - [superhq-ai/superhq](https://github.com/superhq-ai/superhq)
@@ -1159,6 +1179,7 @@
 - [sveinbjornpalsson/torrentpreview](https://github.com/sveinbjornpalsson/torrentpreview)
 - [svix/diom](https://github.com/svix/diom)
 - [swelljoe/nelson](https://github.com/swelljoe/nelson)
+- [swimmingbrain/texbrain](https://github.com/swimmingbrain/texbrain)
 - [syamdanda/jsonbase](https://github.com/syamdanda/jsonbase) *
 - [synacker/git-version-utils](https://github.com/synacker/git-version-utils)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) *
@@ -1283,6 +1304,8 @@
 - [vibe-log/vibe-log-cli](https://github.com/vibe-log/vibe-log-cli)
 - [vibe-music/vibe-music-web](https://github.com/vibe-music/vibe-music-web)
 - [vihdzp/combinatorial-games](https://github.com/vihdzp/combinatorial-games)
+- [viktorinkov/shook](https://github.com/viktorinkov/shook)
+- [vinay/rscheme](https://github.com/vinay/rscheme)
 - [vinayak-mehta/ipychat](https://github.com/vinayak-mehta/ipychat) *
 - [vinhnx/vtcode](https://github.com/vinhnx/vtcode)
 - [virustotal/yara](https://github.com/virustotal/yara) *
@@ -1301,6 +1324,7 @@
 
 ## W
 - [wadecalvin9/flux-releases](https://github.com/wadecalvin9/flux-releases)
+- [walter-grace/expert-sniper](https://github.com/walter-grace/expert-sniper)
 - [wandmalfarbe/pandoc-latex-template](https://github.com/wandmalfarbe/pandoc-latex-template) *
 - [wangjiake/jkriver](https://github.com/wangjiake/jkriver)
 - [wassist/cli](https://github.com/wassist/cli)
