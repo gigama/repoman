@@ -47,6 +47,7 @@
 - [yonidavidson/agentcomm](https://github.com/yonidavidson/agentcomm)
 - [lukasmetzler/agenteval](https://github.com/lukasmetzler/agenteval)
 - [apodexai/agentharness](https://github.com/apodexai/agentharness)
+- [jason-doyle/agentic-data-kernal](https://github.com/jason-doyle/agentic-data-kernal)
 - [quietforgelabs/agentpty](https://github.com/quietforgelabs/agentpty)
 - [iamfaham/agentsnap](https://github.com/iamfaham/agentsnap)
 - [agentswarms-fyi/agentswarms](https://github.com/agentswarms-fyi/agentswarms)
@@ -127,6 +128,7 @@
 - [noumenon-ai/automaxfix](https://github.com/noumenon-ai/automaxfix)
 - [vordenken/autopip](https://github.com/vordenken/autopip)
 - [nullarray/autosploit](https://github.com/nullarray/autosploit) *
+- [smartai/ava](https://github.com/smartai/ava)
 - [dentm42/aver](https://github.com/dentm42/aver)
 - [klafyvel/avr-fft](https://github.com/klafyvel/avr-fft) *
 - [kklt92/awesome-ai-extensions](https://github.com/kklt92/awesome-ai-extensions)
@@ -303,6 +305,7 @@
 - [aperturesurvivor/costclaw-telemetry](https://github.com/aperturesurvivor/costclaw-telemetry)
 - [aoakley/cotswoldjam](https://github.com/aoakley/cotswoldjam) *
 - [zkalykov/couchpilot](https://github.com/zkalykov/couchpilot)
+- [matheus-git/country-logic](https://github.com/matheus-git/country-logic)
 - [callumreid/cow_code](https://github.com/callumreid/cow_code)
 - [complaro/cra-scanner](https://github.com/complaro/cra-scanner)
 - [eiiot/crabify](https://github.com/eiiot/crabify)
@@ -377,6 +380,7 @@
 - [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest)
 - [abtdomain/dksplit](https://github.com/abtdomain/dksplit)
 - [docbrain-ai/docbrain](https://github.com/docbrain-ai/docbrain)
+- [cod3rboy/docchat](https://github.com/cod3rboy/docchat)
 - [bekirdag/docdex](https://github.com/bekirdag/docdex)
 - [ds4sd/docling](https://github.com/ds4sd/docling) *
 - [docslicer/docslicer](https://github.com/docslicer/docslicer)
@@ -996,6 +1000,7 @@
 - [bmbomich/psvl](https://github.com/bmbomich/psvl)
 - [lijujames311/pta-science-platform](https://github.com/lijujames311/pta-science-platform)
 - [jschauma/puddy](https://github.com/jschauma/puddy) *
+- [artpar/puppt](https://github.com/artpar/puppt)
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) *
 - [purritobin/purritobin](https://github.com/purritobin/purritobin) *
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) *
@@ -1125,6 +1130,7 @@
 - [azdhril/sentinel](https://github.com/azdhril/sentinel)
 - [sreejay-reddy/sentinel](https://github.com/sreejay-reddy/sentinel)
 - [brunoquaresma/seoq](https://github.com/brunoquaresma/seoq)
+- [fast/serde-shape](https://github.com/fast/serde-shape)
 - [hsandhu/serve-avd](https://github.com/hsandhu/serve-avd)
 - [eap5662/serverless-sentinel](https://github.com/eap5662/serverless-sentinel)
 - [system-glitch/sha256](https://github.com/system-glitch/sha256) *

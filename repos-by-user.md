@@ -126,6 +126,7 @@
 - [arpsyndicate/awesome-intelligence](https://github.com/arpsyndicate/awesome-intelligence) *
 - [arteemg/autohypothesis](https://github.com/arteemg/autohypothesis)
 - [artiebits/memdir](https://github.com/artiebits/memdir)
+- [artpar/puppt](https://github.com/artpar/puppt)
 - [arun1729/road-network](https://github.com/arun1729/road-network) *
 - [aryx/syncweb](https://github.com/aryx/syncweb)
 - [ascarola/verdictmail](https://github.com/ascarola/verdictmail)
@@ -282,6 +283,7 @@
 - [clockworklabs/spacetimedb](https://github.com/clockworklabs/spacetimedb)
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic)
 - [cmackenzie1/torii-rs](https://github.com/cmackenzie1/torii-rs)
+- [cod3rboy/docchat](https://github.com/cod3rboy/docchat)
 - [codag-megalith/codag-visualizer](https://github.com/codag-megalith/codag-visualizer)
 - [codazoda/peen](https://github.com/codazoda/peen)
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) *
@@ -456,6 +458,7 @@
 - [falense/openpaper](https://github.com/falense/openpaper)
 - [fanitarantsopoulou/ai-news-aggregator](https://github.com/fanitarantsopoulou/ai-news-aggregator)
 - [farzaa/clicky](https://github.com/farzaa/clicky)
+- [fast/serde-shape](https://github.com/fast/serde-shape)
 - [faviovazquez/ds-cheatsheets](https://github.com/faviovazquez/ds-cheatsheets) *
 - [fayazara/screendrop](https://github.com/fayazara/screendrop)
 - [fayzan123/rungraph](https://github.com/fayzan123/rungraph)
@@ -641,6 +644,7 @@
 - [janw/podcast-archiver](https://github.com/janw/podcast-archiver) *
 - [jarod-rosenthal/workermill](https://github.com/jarod-rosenthal/workermill)
 - [jarun/buku](https://github.com/jarun/buku) *
+- [jason-doyle/agentic-data-kernal](https://github.com/jason-doyle/agentic-data-kernal)
 - [jasonhemann/brew-cask-audit](https://github.com/jasonhemann/brew-cask-audit)
 - [jasonjmcghee/orcv](https://github.com/jasonjmcghee/orcv)
 - [jasonmayes/vectorsearch.js](https://github.com/jasonmayes/vectorsearch.js)
@@ -799,6 +803,7 @@
 - [markosnarinian/fold-logging.nvim](https://github.com/markosnarinian/fold-logging.nvim)
 - [martint/henka](https://github.com/martint/henka)
 - [mate-desktop/mate-screensaver](https://github.com/mate-desktop/mate-screensaver) *
+- [matheus-git/country-logic](https://github.com/matheus-git/country-logic)
 - [mathjax/mathjax](https://github.com/mathjax/mathjax) *
 - [mathmeetsart/lorenz-attractor](https://github.com/mathmeetsart/lorenz-attractor) *
 - [matteoleonesi/claim-memory-graph-sdk](https://github.com/matteoleonesi/claim-memory-graph-sdk)
@@ -1132,6 +1137,7 @@
 - [sleuthco/clawshield-public](https://github.com/sleuthco/clawshield-public)
 - [sliday/ai-auto-completion-editor](https://github.com/sliday/ai-auto-completion-editor) *
 - [sloev/gutenhaiku](https://github.com/sloev/gutenhaiku) *
+- [smartai/ava](https://github.com/smartai/ava)
 - [smarter-sh/smarter](https://github.com/smarter-sh/smarter)
 - [smashah/quran.sh](https://github.com/smashah/quran.sh)
 - [smyrgeorge/qrt](https://github.com/smyrgeorge/qrt)
