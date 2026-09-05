@@ -220,6 +220,7 @@
 - [hyperlogue/captain-miao](https://github.com/hyperlogue/captain-miao)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
 - [the-resonance-institute/casa-runtime](https://github.com/the-resonance-institute/casa-runtime)
+- [cascadia-plm/cascadia-app](https://github.com/cascadia-plm/cascadia-app)
 - [trycaspian/caspian-sdk](https://github.com/trycaspian/caspian-sdk)
 - [sketchmyview/cassachange](https://github.com/sketchmyview/cassachange)
 - [gtutino/cco](https://github.com/gtutino/cco)
@@ -394,6 +395,7 @@
 - [dhruvasagar/dotfiles](https://github.com/dhruvasagar/dotfiles) *
 - [mmethodz/dreamgraph](https://github.com/mmethodz/dreamgraph)
 - [cladam/drift](https://github.com/cladam/drift)
+- [billthegoatnotme/driftcheck](https://github.com/billthegoatnotme/driftcheck)
 - [faviovazquez/ds-cheatsheets](https://github.com/faviovazquez/ds-cheatsheets) *
 - [dailysoftwaresystems/dss-code-prime](https://github.com/dailysoftwaresystems/dss-code-prime)
 - [bxrne/dstest](https://github.com/bxrne/dstest)
@@ -790,6 +792,7 @@
 - [kwadwoadu/modelfit](https://github.com/kwadwoadu/modelfit)
 - [marella/modelregistry](https://github.com/marella/modelregistry)
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
+- [sebastiancarlos/mongotar](https://github.com/sebastiancarlos/mongotar)
 - [singlr-ai/monolith](https://github.com/singlr-ai/monolith)
 - [y2z/monolith](https://github.com/y2z/monolith) *
 - [amelielabs/monotone](https://github.com/amelielabs/monotone)
@@ -856,6 +859,7 @@
 - [mzucker/noteshrink](https://github.com/mzucker/noteshrink) *
 - [burg3r5/notifilter](https://github.com/burg3r5/notifilter)
 - [rashidazarang/notion-to-site](https://github.com/rashidazarang/notion-to-site)
+- [gioblu/npc-forge](https://github.com/gioblu/npc-forge)
 - [ntntlang/ntnt](https://github.com/ntntlang/ntnt)
 - [dopper/nts-ufos](https://github.com/dopper/nts-ufos)
 - [coproduct-opensource/nucleus](https://github.com/coproduct-opensource/nucleus)
